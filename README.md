@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pyttlick
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ...about Android Studio and Java code
-- 💞️ I’m looking to collaborate on ... i want build a primitive 2D game
+- 💞️ ATtiny85, ATtiny2313 on "C" code
 - 📫 How to reach me ... on my e-mail P.A5@seznam.cz
 
 <!---
